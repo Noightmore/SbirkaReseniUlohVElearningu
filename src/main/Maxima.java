@@ -30,7 +30,7 @@ public class Maxima {
                 }
 
             }
-            System.out.println(pocetPrvkuCoMaStejnyPocetNetrivialnichDelitelu);
+          //  System.out.println(pocetPrvkuCoMaStejnyPocetNetrivialnichDelitelu);
         }
     }
 
